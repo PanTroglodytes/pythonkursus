@@ -3,7 +3,7 @@
 #Dette er listen over forfattere
 yndlingsforfattere = ["Poulsen","Hansen","Jensen","Andersen","Møller"]
 
-#her laver vi en variabel,som er længden af listen
+#her laver vi en variabel, som er længden af listen
 antal_forfattere = len(yndlingsforfattere)
 
 #her printer vi længden

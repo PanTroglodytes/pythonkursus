@@ -1,8 +1,8 @@
 #nesting i dictionaries
 
-byer_de = {"Land" : "Tyskland", "Byer" : ["Berlin", "München", "Hanover"]}
+byer_de = {"Land" : "Tyskland", "Byer" : ["Berlin", "München", "Hamburg"]}
 byer_gb = {"Land" : "Storbritannien", "Byer" : ["London", "Birmingham", "Manchester"]}
-byer_fr = {"Land" : "Frankrig", "Byer" : ["Paris", "Marseille", "Toulouse"]}
+byer_fr = {"Land" : "Frankrig", "Byer" : ["Paris", "Marseille", "Lyon"]}
 
 byer_i_lande = []
 byer_i_lande.append(byer_de)
